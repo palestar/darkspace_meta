@@ -1,0 +1,9 @@
+[submodule "DarkSpace"]
+	path = DarkSpace
+	url = C:\\Work\\palestar\\trunk\\DarkSpace
+[submodule "GameCQ"]
+	path = GameCQ
+	url = C:\\Work\\palestar\\trunk\\GameCQ
+[submodule "Medusa"]
+	path = Medusa
+	url = C:\\Work\\palestar\\trunk\\Medusa
