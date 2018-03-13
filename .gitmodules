@@ -1,6 +1,3 @@
-[submodule "DarkSpace"]
-	path = DarkSpace
-url=git@github.com:palestar/darkspace.git
 [submodule "GameCQ"]
 	path = GameCQ
 url=git@github.com:palestar/gamecq.git
