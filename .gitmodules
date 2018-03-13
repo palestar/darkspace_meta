@@ -2,3 +2,11 @@
 	path = DarkSpace
 	url = git@github.com:palestar/darkspace.git
 	branch = develop
+[submodule "Medusa"]
+	path = Medusa
+	url = git@github.com:palestar/medusa.git
+	branch = develop
+[submodule "GameCQ"]
+	path = GameCQ
+	url = git@github.com:palestar/gamecq.git
+	branch = develop
